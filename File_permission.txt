@@ -1,0 +1,4 @@
+#sudo chown [user/root_name] /folder/folder/[web_folder]/[folder_directory] //change the owner of folder
+#password for [login user_name]:
+#test@test:~$ chmod +rwx /folder/folder/[web_folder]/[folder_directory] //change mode or file access
+#test@test:~$ ll /folder/folder/[web_folder]/[folder_directory] //to view the file status
